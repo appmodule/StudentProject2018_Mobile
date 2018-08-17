@@ -1,0 +1,6 @@
+framework module Pods_Praksa2018Tests {
+  umbrella header "Pods-Praksa2018Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
